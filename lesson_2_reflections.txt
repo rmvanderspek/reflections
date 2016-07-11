@@ -1,3 +1,7 @@
 -What happens when you initialize a repository? Why do you need to do it?
 
 To be able to start version control (and commit your versions) you will have to initialize the repository. 
+
+- How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory is the entire directory your working on. The repository works only on the files added to the stage.
