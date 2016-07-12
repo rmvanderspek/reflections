@@ -4,3 +4,5 @@ When several people are working on the same repository; when you are working on 
 You may have done commits you don't want published yet. 
 -Describe the differences between forks, clones, and branches. When would you use one instead of the other?
 A fork is a clone made on the GitHub: it will have a reference to the original. A clone is a copy to your local work station, without any reference to the original. A branch is a different commit path. 
+-What is the benefit of having a copy of the last known state of the remote stored locally?
+You'd be able to check wether changes have been made since your last visit to the github repository.
