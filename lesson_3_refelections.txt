@@ -8,3 +8,5 @@ A fork is a clone made on the GitHub: it will have a reference to the original. 
 You'd be able to check wether changes have been made since your last visit to the github repository.
 -How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Via email or some kind of data carrier. It would off course be more difficult. Especially once you are trying to work on one and the same file. (Merging would be costly.)
+-When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+By making a serperate branch first, you enable collaboration. You can create a pull request and get another collaborator to check out your changes before adding them to the master. 
